@@ -1,0 +1,20 @@
+window.loveStoryPhotos = [
+  "photo1.png",
+  "photo10.png",
+  "photo11.png",
+  "photo12.png",
+  "photo13.png",
+  "photo14.png",
+  "photo15.png",
+  "photo16.png",
+  "photo17.png",
+  "photo18.png",
+  "photo19.png",
+  "photo2.png",
+  "photo4.jpg",
+  "photo5.png",
+  "photo6.png",
+  "photo7.png",
+  "photo8.png",
+  "photo9.png"
+];
